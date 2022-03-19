@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^5.2.0",
+    "puppeteer": "^13.5.1",
+    "random-useragent": "^0.5.0",
+    "worker-farm": "^1.7.0",
+    "workerpool": "^6.2.0"
+  }
+}
